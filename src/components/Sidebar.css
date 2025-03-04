@@ -1,0 +1,59 @@
+/* src/components/Sidebar.css */
+.sidebar {
+  width: 200px;
+  background-color: #F1F2F7;
+  border-right: 1px solid #ddd;
+  padding: 1rem;
+}
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  margin-bottom: 1rem;
+}
+
+/* Default link styling: dark grey for text and icons */
+.nav-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #707070;  /* Darker grey */
+  font-weight: 500;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+}
+
+/* Ensure no underline or unwanted colors in any state */
+.nav-link:link,
+.nav-link:visited,
+.nav-link:focus,
+.nav-link:active {
+  color: #707070;
+  text-decoration: none;
+}
+
+/* Icon styling: use currentColor for fill */
+.nav-icon {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+  margin-right: 0.5rem;
+}
+
+/* Hover effect */
+.nav-link:hover {
+  background-color: #c8c8c8; /* Darker hover background */
+  color: #707070;
+}
+
+/* Active link: left bar highlight and text/icon change */
+.nav-link-active {
+  border-left: 4px solid #707FDD;
+  color: #5A67BA; /* Active link color */
+  background-color: #ffffff;
+  padding-left: calc(0.75rem - 4px);
+}
