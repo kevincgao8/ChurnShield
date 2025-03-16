@@ -1,0 +1,101 @@
+Salesforce_ID,CreatedDate,FirstName,LastName,Email,Phone,Company,LeadSource,Status,Predicted_Churn
+SF-922e8ed5-0bf3-4b2f-8b01-46504b5695b9,2024-08-25T13:56:14.111596,Patricia,Trevino,robertsjacob@example.org,+1-266-594-2273x09353,Thompson Ltd,Trade Show,Converted,0
+SF-d4eee776-5278-4335-90fd-a18a57565da6,2024-12-10T20:11:12.933288,Ricky,Brady,michael39@example.net,(249)214-2262,Cooper Ltd,Cold Call,Nurturing,0
+SF-eab2ec1f-a41d-4c16-a727-3a821d381ac0,2024-08-06T08:45:38.398177,Annette,Hines,ronaldrichardson@example.net,001-488-964-5881x1286,Salinas PLC,Cold Call,Working,0
+SF-a679d3c4-e9db-4573-a7b5-10f4b28150c8,2024-06-03T16:55:19.829209,Annette,Hoffman,william67@example.net,+1-396-457-5053x8910,Williams-Curtis,Referral,New,1
+SF-4fcb66c4-eee6-4926-9d1d-f529bffa916d,2025-01-05T03:47:36.146496,Cassandra,Cortez,shawnasims@example.org,001-481-634-0644x9584,Taylor Ltd,Cold Call,Closed - Lost,1
+SF-8df74e16-fdce-48e7-b00d-e631dc83d9e2,2024-06-01T06:14:48.075530,Jacqueline,Kennedy,scott12@example.com,760-266-2281x9350,Jones-Callahan,Partner,Converted,1
+SF-29c2ce1c-e606-471e-a014-adecc5ed5008,2024-10-15T19:46:00.699128,Christopher,Duran,donna01@example.com,001-437-239-6353x7413,"Alexander, Jordan and Harris",Referral,Nurturing,0
+SF-3cf86070-3a74-4cbf-a3be-4f76792b0cab,2024-04-08T04:08:53.422496,Bryan,Sherman,tkennedy@example.org,690.433.0897x543,Morris Group,Web,Converted,1
+SF-c5a69d61-c48e-496e-bd34-5be623cad9a4,2024-10-21T18:33:11.879410,Sharon,Mills,brittanyromero@example.net,610.594.2771x8098,Brooks LLC,Web,Working,1
+SF-19c88655-6910-4944-ad40-c93af5c25ae5,2024-12-03T18:48:09.682681,Lawrence,Cohen,amy52@example.com,452-777-0421x38936,"Oconnor, Bird and Pineda",Cold Call,New,0
+SF-5aa93a44-3c4b-449b-9e5e-8f7d93f27bcb,2024-05-06T12:55:00.718273,Sharon,Kim,christine65@example.com,+1-543-507-4316x8436,Williams and Sons,Partner,Converted,1
+SF-2a265400-d80f-4b52-82db-129508d443e6,2024-03-17T14:19:32.696936,Antonio,Terrell,matthew38@example.net,001-525-695-6648x355,"Moore, Palmer and Wade",Referral,Working,0
+SF-346ebcc7-8f60-49f8-bf90-25b6e177ee22,2024-10-18T16:08:10.803026,Cody,Reyes,michaelhughes@example.com,+1-568-775-3783x2580,Jones Inc,Web,Closed - Lost,1
+SF-a1ff19d0-7404-4dae-bf13-29c10aafde82,2024-09-10T13:23:39.163571,David,Lozano,tyler28@example.net,557.804.5305x7401,"Gutierrez, Adams and Castro",Web,Working,1
+SF-50ee6916-6b63-4b0b-8fa6-3d77165a0c1c,2024-10-30T01:21:59.807865,Andre,Gardner,qhill@example.com,(616)606-4336,"Hanna, Harris and Harper",Referral,Nurturing,0
+SF-a5d54640-1727-4810-828f-0da282cf759c,2024-04-06T09:25:40.889131,Hector,Myers,andrew87@example.net,(584)253-4081x85409,Boyer Inc,Trade Show,Closed - Lost,1
+SF-8ca04aa9-ef1a-4f7b-863b-69f4358a110f,2024-05-09T03:27:28.217594,Richard,Martin,jamiejimenez@example.org,906.544.1875x095,"Morgan, Smith and Ruiz",Cold Call,New,0
+SF-7f4f3fc9-7597-4ff2-afab-4a311dc2446b,2024-10-23T08:12:12.615864,Erin,Smith,julie20@example.com,675.576.2409,Carter Inc,Partner,New,0
+SF-f005a5ff-28cf-48d4-8a74-3e5f4908ef98,2024-10-26T20:36:53.486926,Donna,Smith,bradley98@example.com,823.825.3988x82028,Gentry-Gutierrez,Web,New,1
+SF-ab3eb03e-5f97-4200-9339-e2810cf8b494,2024-04-30T09:07:32.592411,Andre,Thompson,jessica90@example.com,3815772307,Barr-Washington,Cold Call,Closed - Lost,1
+SF-186383df-3b25-4e6a-bec5-eab733cbda56,2024-03-26T18:27:48.044447,Edward,Smith,vschultz@example.net,(347)851-3438x40498,"Ball, Harper and Sims",Referral,Closed - Lost,1
+SF-848c75b6-be40-4f6a-b2af-9298a9572847,2024-05-26T10:54:20.761940,Mathew,Mccarthy,deannamays@example.net,+1-285-743-6886x01296,Moore Group,Cold Call,Converted,0
+SF-e3c712f4-5134-4786-819f-23448f12cf59,2024-03-18T11:43:58.051113,Ian,Shaw,pcook@example.org,733.387.7085x410,Davis-Wagner,Web,New,1
+SF-99b1696a-7cdc-4aaa-9e41-8c556cfa7bc3,2024-03-14T07:30:15.985958,Wendy,Quinn,albertcarlson@example.net,(884)652-0213,Lutz Group,Trade Show,Converted,0
+SF-f0601f7d-b25a-4486-b6f0-1b985ed6479f,2024-12-27T21:14:58.949063,Haley,Baldwin,lindseymiller@example.org,(680)924-4678x35687,Johnson-Cooper,Partner,Working,0
+SF-b6fe13de-e99e-460a-9f20-40c0d33e18cb,2024-11-27T22:38:54.396709,Carlos,Foley,millercody@example.net,334-805-3900x588,Bass Group,Trade Show,Nurturing,0
+SF-d2daf09a-9ea6-477a-8068-354d1a38d9ea,2024-08-21T17:15:48.053478,Amber,Knapp,laurabrown@example.org,270-722-7389x434,"Young, Bonilla and Chavez",Partner,Nurturing,1
+SF-f997d087-1824-4249-8c3e-a14ea63f6c47,2024-11-28T16:38:32.611511,Heather,Ross,chavezjeffrey@example.com,+1-783-641-0500x812,Huff-Howell,Referral,Nurturing,0
+SF-aac7260c-a934-4415-8da8-42218680150e,2024-10-31T03:09:31.659318,Scott,Hardy,timothy17@example.net,+1-999-876-0580x063,Smith Inc,Cold Call,Converted,0
+SF-98c2a20c-8fef-4925-afa8-9e1c294c757e,2024-12-16T17:23:22.879498,Michael,Johnson,brian69@example.org,(630)506-6487x07395,Pham-Wade,Trade Show,Closed - Lost,1
+SF-86e96250-ff7f-4ffa-878a-3a5cf7b2f5bf,2025-01-18T11:35:04.778337,Raymond,Jones,colleenalvarez@example.org,927.718.2569,Rush PLC,Cold Call,Converted,0
+SF-35d060dc-517e-41dd-ab7c-d7973e126f27,2024-10-30T09:39:55.674962,Daniel,Turner,ryoung@example.com,001-343-224-4058,Underwood Inc,Partner,Converted,1
+SF-17fca6ce-b4a6-458a-aef9-0470e5103f07,2024-07-24T17:15:03.419822,Shelley,Hoffman,bwood@example.net,+1-973-221-4970x9956,Mack Group,Referral,Closed - Lost,1
+SF-40b937d6-73a1-43df-82cc-be162d53562f,2024-10-05T17:35:07.036152,Tiffany,Davis,cartertracey@example.com,405.484.7707,"Anderson, Wise and Key",Web,Converted,1
+SF-9207a68c-0e1c-49a2-b54b-262f2f161a2c,2024-02-19T05:39:14.906063,Matthew,Jenkins,buckrussell@example.org,001-363-623-8052x685,Figueroa PLC,Trade Show,Working,0
+SF-4e95a2dd-75fe-4317-a974-b198743f19a8,2024-03-19T02:18:25.692631,John,Boyd,daniellesantana@example.net,774-696-1920x9712,Malone Inc,Web,Nurturing,0
+SF-303e6699-7869-4774-89a6-36f15320364c,2024-11-23T00:41:15.756382,Diana,Krause,gary79@example.com,+1-435-585-0437x26287,"Medina, Hardy and Williams",Trade Show,Working,0
+SF-b12743a1-0cb5-4ceb-b4a5-4ebaddd89ad4,2025-01-10T04:16:15.816517,Allen,Williams,penarebecca@example.org,+1-859-491-7479x5389,Frank LLC,Referral,Converted,0
+SF-adf5ca41-b09b-4ec1-b6b6-3a2007a4df36,2024-12-15T14:42:51.584255,Ethan,Olsen,smyers@example.org,+1-630-741-9388x6077,Burke-Rangel,Cold Call,Converted,0
+SF-0c0893f1-cb06-4214-af26-045293370369,2024-06-16T06:48:02.322495,James,Bishop,cwells@example.net,001-537-752-6871x1458,Mccullough-White,Referral,Closed - Lost,1
+SF-92383ed3-9d8a-4dee-a4de-4cd436f5489a,2024-09-16T01:21:17.196410,John,Zimmerman,janet46@example.net,+1-910-439-7850,"Madden, Hull and Martinez",Web,Working,1
+SF-6eb66e66-1769-4219-897f-c54cdd6c064e,2024-11-03T05:23:19.461652,Elijah,Mccoy,robertsbrenda@example.com,(888)797-3032,Mccullough-Sanders,Trade Show,New,0
+SF-2a19dcbb-f74b-4d88-b3cf-41557ec29ddf,2024-07-29T18:51:22.601188,Richard,Rodriguez,jason72@example.org,+1-658-911-2958x2506,"Galvan, Williams and Walker",Cold Call,Nurturing,0
+SF-953877cc-db28-4ebd-b23d-0636db79039f,2024-05-19T19:26:10.056222,Linda,Leonard,vargassarah@example.org,001-377-836-0739x2179,"Rivas, Wong and Moore",Web,New,1
+SF-f9ed7acf-057c-4f71-87dc-11a6866287c3,2024-06-25T07:15:26.022675,Michael,Wolf,brandon63@example.net,(810)456-6981x134,Stanley Ltd,Referral,Converted,0
+SF-d7d397fe-a97d-4513-ac04-08462586af43,2024-03-13T20:06:09.367306,Peter,Walker,scottdaniel@example.org,3626835204,Guzman PLC,Cold Call,Working,0
+SF-08c52f0d-8b53-4678-8f10-f8aaa393dae1,2024-11-15T16:52:51.829151,Paula,Davis,matthewhale@example.org,001-635-438-0354x16123,Gray LLC,Referral,Closed - Lost,1
+SF-eb8a39e4-63df-4703-ac62-2d74afa71a13,2024-08-18T04:47:12.666747,Chad,Miller,bakerrobert@example.org,001-687-630-5613x62141,Curry Ltd,Trade Show,New,0
+SF-bd55c4d6-96c3-4111-aa86-04e494dfa3fa,2024-05-24T10:49:40.695957,Andrea,Webster,brian78@example.net,954-348-6425,"Roberts, Giles and Perez",Web,Closed - Lost,1
+SF-84ff84e4-0043-4766-a948-ef765c2c0932,2024-12-29T04:50:07.005609,Brenda,Conner,ujohnson@example.net,365-780-6269,Sharp-White,Trade Show,New,0
+SF-090bcc00-bab2-41f9-9a34-18711c83c85a,2024-05-09T15:25:32.685643,Maria,Martin,julia52@example.org,(862)737-6684x6095,Robinson-Lewis,Trade Show,New,0
+SF-268e141b-8adb-4081-9a71-552e854a0cea,2024-04-25T20:41:41.292225,Bonnie,Joseph,castillosusan@example.org,641.581.4485,Fox-Haynes,Referral,New,1
+SF-bdcb5787-3d30-4ca4-bfe3-1cb6c70fc5f7,2024-08-27T21:02:39.922681,Mary,Booth,carl02@example.net,+1-461-387-0029x562,"Moore, Miller and Wells",Partner,Working,0
+SF-c834ed0e-48a0-461e-bcae-3fa0ad43a206,2024-10-02T16:01:08.919892,Scott,Wilkerson,marcus55@example.com,(242)922-0706x9262,"Adams, Harris and Freeman",Cold Call,Working,0
+SF-833adb61-7e2c-4a5e-a1ef-323295969706,2024-03-28T20:17:08.796691,Ronald,Leblanc,patriciarogers@example.com,001-388-686-2822,Roberts Inc,Cold Call,Converted,0
+SF-c8b803f5-7a41-48db-b1d2-f324c9aad6a0,2024-07-24T08:09:15.493872,Sandra,Williams,andrew65@example.com,+1-256-693-1979x6890,"Anderson, Barnes and Nicholson",Web,New,1
+SF-1ba2ded1-f6f7-4a6b-b259-be5bffb2e27b,2024-12-25T22:43:54.931281,John,Mcdaniel,vargaspatricia@example.net,+1-499-484-6725x863,"Edwards, House and Jefferson",Referral,Working,0
+SF-02c37a06-a9a3-42bf-b464-51fce0facb7e,2024-09-29T19:30:43.646538,Brianna,Brown,william44@example.net,(917)463-2172x876,Brown and Sons,Web,New,1
+SF-ae1d52a3-515d-4486-9bed-a4168e6aa6d4,2024-03-14T10:21:19.880154,Rachel,Hawkins,ywilliams@example.net,423.277.6358x43935,"Smith, Sullivan and Carter",Cold Call,Closed - Lost,1
+SF-c25a0a7b-4a3e-493e-ad34-88e1f445f8c0,2024-06-17T12:44:42.988307,David,Gallegos,ndyer@example.com,+1-280-295-1607x5222,"Torres, Cole and Flores",Cold Call,Closed - Lost,1
+SF-ff55d615-6cdc-4ab0-a6ec-1bd870897025,2024-03-23T19:57:05.448176,Brian,Wu,kathleenburch@example.org,(229)853-0270x49203,"Lee, Robinson and Boyer",Referral,Nurturing,0
+SF-62522cdc-89cb-42d9-b581-2a5536e5fcec,2024-10-30T15:47:34.815062,Robin,Blankenship,markjohnson@example.org,+1-437-598-6093x20228,Walter Group,Web,Working,1
+SF-aa404965-a82c-4a10-9f7d-bbf08601ce6e,2024-08-20T18:00:51.898542,Andre,Davis,timothy35@example.org,001-669-461-5297x05298,Matthews-Guerrero,Cold Call,Converted,0
+SF-86fb9a99-76d0-4a8c-847d-2abaaf21c8e1,2024-07-23T03:34:58.326713,Steven,Tran,kennethdixon@example.com,693-674-3668,Grant-Jones,Referral,Converted,0
+SF-56834dd1-12ea-43f3-b5b4-6cf151f6e570,2024-07-30T15:15:04.862477,Leah,Jones,alanrichardson@example.net,001-480-738-0405x689,"Miller, Decker and Short",Cold Call,Nurturing,0
+SF-e1582ebc-caeb-4ef7-8281-ae9438cde924,2024-08-08T21:12:13.713177,Joshua,Burton,villarrealpaul@example.org,923-774-9511x8678,"Morales, Edwards and Fischer",Web,Converted,1
+SF-d884d146-bdd7-4a79-b4bf-9c75cf814f8f,2024-10-09T04:53:19.640312,Linda,White,huntjon@example.org,(634)709-8387,Price-Mitchell,Trade Show,New,0
+SF-cb2a1480-5917-41bc-921c-38355188ef22,2024-06-28T22:18:04.340160,Charles,Hernandez,jenningskrista@example.com,728-616-2961x9012,Cook Group,Referral,Nurturing,0
+SF-7458db38-d34e-461e-93f8-2656ded09577,2024-06-18T22:48:21.084302,Wayne,Black,jake40@example.com,427-597-7189x74077,"Serrano, Rose and Frazier",Web,New,1
+SF-dbf2e9b5-32e7-4d92-bce0-f2caea977e8a,2024-04-24T22:05:28.889117,Michael,Patterson,spencerwright@example.com,001-568-917-8164x0932,Williamson Group,Cold Call,New,0
+SF-6185f207-bfee-44f6-a046-bb36ddeebf13,2024-03-13T02:59:39.925570,Anthony,Gilbert,carly58@example.net,441.453.8350x56505,Stokes-Martinez,Referral,New,1
+SF-5ce6e105-fba9-47be-856a-97839961fb8b,2024-10-01T14:17:23.390763,Walter,Bridges,whiteoscar@example.net,001-902-302-0142x48140,Taylor-Garcia,Cold Call,Nurturing,0
+SF-fe2d4878-2b2a-4f9e-be57-77355beed71e,2024-03-13T10:05:50.858972,Jesse,Cross,kcruz@example.net,(311)821-1874x640,"Foster, Duke and Wright",Cold Call,Converted,0
+SF-6d5c8fb6-1785-43e6-bcaa-ef5e8d843b0e,2024-04-17T05:54:06.991864,April,Bautista,annette74@example.com,202-203-8555x62898,Stuart-Moore,Cold Call,Converted,0
+SF-414d0cba-dae5-4ee0-93b4-7e16ed24b968,2024-08-17T21:34:54.327272,Jonathan,Tate,mark08@example.com,559-683-9812,"Salinas, Willis and Anderson",Trade Show,Working,0
+SF-36e580f1-d99d-4234-ae8f-6de26ada4cfc,2024-06-22T04:21:23.043887,Ashley,Guerra,youngkristine@example.net,351.542.6389x103,Williams-Wise,Cold Call,New,0
+SF-614f154a-e5e1-4ed2-8544-24e527bc630c,2024-08-09T08:53:21.441787,Christina,Velasquez,wkim@example.com,(433)918-5538x2298,"Gutierrez, Curry and Peterson",Partner,Working,0
+SF-d8ea3904-649c-4f2b-91de-7533dc103337,2024-10-15T00:03:47.211228,Janet,Newman,craig78@example.org,001-762-546-6637x0025,Brooks-Harrington,Partner,Closed - Lost,1
+SF-8ef8d478-d8a2-4475-80e9-9b1def3fb3e6,2024-08-20T23:54:42.129839,David,Padilla,hallteresa@example.org,(633)321-3777x3099,Blair-Ellis,Partner,New,0
+SF-0bc744cb-d270-43bf-a9f5-ee4366b68bd0,2024-04-02T15:12:01.605679,Joel,Barnett,amanda82@example.net,5989141579,Brown Inc,Trade Show,Nurturing,0
+SF-0bddc50c-32c2-425c-a543-c62ae76441b2,2024-11-17T01:11:34.435379,Meagan,Hurley,ann68@example.net,295-470-7489,Simmons Inc,Web,Closed - Lost,1
+SF-ebacd33b-9469-4317-ac27-f63396a6f17a,2024-03-08T10:57:52.369967,David,Dixon,stevenwilson@example.org,+1-991-987-2141x2786,Martinez Group,Trade Show,New,0
+SF-81e3284d-cb93-4b41-b0ee-983af83c55ed,2024-05-21T02:49:40.540555,Samuel,Thomas,nancy07@example.net,(988)634-7134x7788,"Bowers, Robertson and Hernandez",Trade Show,Converted,0
+SF-51d9cbc9-0c91-4760-8e06-3ed333190e7d,2024-06-28T02:22:13.486607,Brandon,Golden,hmarquez@example.com,001-651-583-5937x41449,"Campos, Smith and Harris",Partner,Working,0
+SF-9b8450b8-21b3-4a11-9bea-2608e5ce5d4e,2024-11-21T14:33:11.543701,Jerry,Klein,stewartarthur@example.net,(981)997-4941,"Waller, Farmer and Parker",Partner,Working,0
+SF-21768846-b20d-4ca6-bf40-2759322d3609,2024-10-11T00:32:21.238342,Jennifer,Peters,fford@example.com,+1-889-736-8509x02584,Ward LLC,Cold Call,Working,0
+SF-5f05ba03-0725-42dc-a47d-7a688e8a300a,2024-08-21T20:47:06.884934,Katherine,Wright,williamsdiana@example.net,(577)243-4990x1167,"Lewis, Rivera and Rosario",Trade Show,New,0
+SF-99a219eb-d155-462b-8582-e1eb506ef3fb,2024-10-17T00:36:29.072984,Tracy,Hahn,coledana@example.org,+1-707-660-8365,"Jackson, Carrillo and Cuevas",Web,Working,1
+SF-df724b96-6e63-4b89-bc69-7ce9dc47f2f5,2025-01-29T16:15:33.180603,Tanya,Joseph,brownnicholas@example.com,+1-880-893-8291,"Miller, Burns and Underwood",Trade Show,New,0
+SF-85bd29fe-7207-4fd0-871a-f82c5ace822f,2024-11-07T06:56:30.745257,Veronica,Jones,jlewis@example.com,001-778-305-2085x973,Wright PLC,Partner,New,0
+SF-9763363f-fc30-4df0-bd88-fb86be9e8d3b,2024-06-12T01:14:50.497787,Christopher,Riddle,danielnelson@example.org,496-969-3235,Moore-Ray,Trade Show,Nurturing,0
+SF-9de3a056-7df6-4d4e-b726-964227a53bf7,2024-10-13T11:27:02.032113,Tiffany,Wilson,jameswilliams@example.org,+1-239-400-3554x84474,Baxter LLC,Referral,Closed - Lost,1
+SF-cb70cdec-ea2d-4fec-9812-a7590a3f08f6,2024-10-02T08:17:05.802030,Amanda,Patel,guzmansarah@example.net,001-647-646-8747x833,Hill Ltd,Web,Working,1
+SF-3b67f676-4bb9-4992-bda3-6246c5fc7b40,2024-11-05T14:07:24.877879,Shawn,Lewis,jennifercervantes@example.com,214.515.6146,"James, Hughes and Salas",Referral,Closed - Lost,1
+SF-9f2b4768-de92-41ae-9a19-9ae8f22e97d6,2024-07-24T16:34:16.982539,Jason,Clark,mark09@example.com,622-448-4789,"Davis, Mullen and Harrison",Trade Show,New,0
+SF-57160847-9010-4fe0-a7c1-9b03f3869514,2024-09-30T10:09:08.640382,Jessica,Powell,shawdorothy@example.net,001-308-599-4143x148,Boyd-Williams,Cold Call,Converted,0
+SF-89f3ddb6-86ee-4f98-b68a-916d638c2a55,2024-02-09T16:22:06.795023,Cody,Kennedy,kurt13@example.net,566-660-7457x9663,Glover PLC,Referral,Closed - Lost,1
+SF-856b76eb-ce57-41bc-8f07-001ca0472d08,2024-08-21T09:01:23.437703,Jessica,Arnold,valenzueladarlene@example.com,(543)238-7648x206,Harris-Duran,Web,Closed - Lost,1
+SF-2223687e-776d-497c-aaec-d6be63e528d7,2024-12-21T07:33:09.453306,Benjamin,Russo,hrussell@example.net,326.571.7816x535,"Holland, Esparza and Gilmore",Cold Call,Converted,0
+SF-46f2cccc-26f1-4671-8d1b-f29ae340912b,2024-08-10T14:21:06.679587,Mario,Jordan,henrybrown@example.net,904-454-5839,Owens-Miranda,Web,Working,1
