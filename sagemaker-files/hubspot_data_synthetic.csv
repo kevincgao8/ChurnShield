@@ -1,0 +1,101 @@
+HubSpot_ID,CreatedOn,FirstName,LastName,Email,LifecycleStage,Website,LeadScore,Churn
+HS-c62ae2ee,2023-07-10T15:01:28.152665,Jeremy,Sharp,maria28@example.com,Customer,http://watson.org/,78,0
+HS-d3ce946e,2025-02-13T17:46:33.654093,Angela,Heath,robertgarcia@example.com,Opportunity,https://www.murray.com/,35,0
+HS-b386c5a7,2024-09-30T05:47:46.026878,Wendy,Bowers,cortezjustin@example.net,Marketing Qualified Lead,http://www.mcdaniel-gomez.org/,91,0
+HS-da142366,2024-12-17T21:01:46.441043,David,Thompson,wellis@example.com,Marketing Qualified Lead,https://morris-lewis.com/,72,0
+HS-b5fac00d,2024-07-21T20:44:24.460131,Kristi,Reed,fergusondeborah@example.net,Customer,https://jackson.com/,85,0
+HS-0944836e,2024-01-30T08:29:59.814965,Alexis,Ruiz,robertsonjason@example.org,Customer,http://nelson-bender.biz/,58,1
+HS-b887f7b3,2024-04-15T07:50:00.933183,Danielle,Duncan,perezmadison@example.org,Marketing Qualified Lead,https://velasquez.com/,77,0
+HS-2f1ad42a,2024-02-20T09:22:13.560687,Joshua,Smith,larryfernandez@example.net,Lead,http://www.mooney.com/,12,1
+HS-1fa859e2,2024-10-17T12:16:35.851699,Amanda,Peters,colinsimon@example.net,Lead,http://dickerson.biz/,60,0
+HS-029bcc6b,2023-05-22T04:44:46.158904,Ronald,Evans,woodandrew@example.net,Opportunity,https://www.curry-garcia.com/,36,0
+HS-6db16f4b,2024-06-08T03:53:24.255610,Rodney,Bell,robin18@example.org,Customer,https://www.green.com/,59,0
+HS-0018d589,2024-04-03T10:53:21.763057,Elizabeth,Payne,hhanson@example.org,Opportunity,http://thompson-taylor.com/,89,1
+HS-3d66f28c,2025-01-12T19:24:18.646497,Roger,Carter,cmoore@example.net,Customer,http://www.hernandez.com/,26,1
+HS-05d610e9,2024-07-30T19:41:47.148182,Jeffrey,Daniel,jay99@example.net,Opportunity,http://www.ortiz.com/,46,0
+HS-f561df60,2023-04-29T03:43:28.826862,Karen,Ellison,boydjasmine@example.com,Marketing Qualified Lead,http://gomez-williams.com/,68,0
+HS-59a05ad7,2023-09-07T17:01:13.541094,Bryan,Miller,william64@example.com,Lead,https://www.campbell-martin.com/,1,1
+HS-e341ea11,2023-05-12T21:34:24.256240,Brian,Mcneil,hlyons@example.net,Marketing Qualified Lead,http://west.com/,28,1
+HS-91c87b44,2024-11-06T21:04:40.437171,Kyle,Thomas,thomasashley@example.org,Subscriber,https://www.dyer.com/,32,0
+HS-d6444d8f,2024-10-30T13:40:32.138772,Laura,Ford,vaughnbryan@example.org,Marketing Qualified Lead,http://bradshaw-harris.com/,57,0
+HS-8d431958,2023-07-06T02:39:57.790120,Samuel,Davis,jack26@example.com,Subscriber,http://walker.com/,50,1
+HS-e6357761,2023-06-23T13:30:12.514331,Kyle,Trujillo,nunezjason@example.com,Customer,https://www.guzman.org/,35,0
+HS-96768e8b,2024-01-05T12:30:57.718678,Melissa,Miles,smithcharles@example.com,Marketing Qualified Lead,https://johnson.com/,23,1
+HS-cf3ea0d0,2023-03-12T08:40:39.527496,Jenna,Keller,caitlin12@example.com,Subscriber,http://carter-haney.org/,93,0
+HS-b277fe1d,2024-10-15T01:41:12.539861,Shawn,Davidson,georgeharrison@example.com,Lead,https://austin-lee.com/,42,1
+HS-04aa5573,2023-12-10T19:53:03.194052,Craig,Williams,amurray@example.com,Sales Qualified Lead,https://www.davis.com/,33,0
+HS-13a11d08,2024-12-24T09:10:10.042489,Patrick,Carr,joshuamartin@example.net,Customer,https://www.johnson-perkins.com/,39,0
+HS-c920625c,2024-01-04T14:50:15.960623,Kelly,Hartman,harperkimberly@example.org,Customer,https://ramos-schwartz.net/,34,0
+HS-68d58787,2024-11-25T19:02:45.890909,Erica,Scott,ywebb@example.net,Customer,http://meyer-sexton.com/,72,0
+HS-421f4240,2024-10-22T14:22:31.295218,Michael,Baker,adam50@example.com,Sales Qualified Lead,http://brown.com/,74,0
+HS-438dd7f7,2023-07-03T14:08:29.230256,Kiara,Bennett,walterelizabeth@example.org,Opportunity,https://murphy.com/,1,1
+HS-d32eb94c,2024-10-29T23:26:13.304701,Nicole,Jones,williamwyatt@example.org,Opportunity,http://www.thompson.com/,94,0
+HS-eec0b3c7,2023-07-24T17:49:20.428026,Henry,Hodges,goldencarlos@example.com,Lead,https://www.kim.com/,65,1
+HS-ec027bd5,2024-09-15T01:04:17.410064,Melissa,Montoya,parkschristopher@example.net,Customer,https://james.net/,65,0
+HS-08e46d78,2023-03-30T21:54:41.367331,Philip,Smith,careylarry@example.net,Subscriber,https://www.payne.com/,44,0
+HS-6cd142b0,2023-09-24T18:43:33.940533,Brenda,Donovan,curtis19@example.net,Lead,https://www.anderson.com/,41,0
+HS-13230eae,2023-10-10T05:19:10.521487,Richard,Williams,heathergonzalez@example.com,Subscriber,http://rush.com/,47,1
+HS-c97844ed,2023-03-04T15:00:24.161675,Heather,Hardy,sallen@example.net,Opportunity,http://clements.info/,90,0
+HS-cb0f2cc0,2024-05-16T00:32:39.495862,Randall,Haney,johnknox@example.com,Customer,https://gross.com/,36,0
+HS-462cd3f9,2024-09-20T16:51:51.658176,Benjamin,Foster,vmcdonald@example.org,Lead,http://www.barrett-harmon.info/,17,1
+HS-91466286,2023-09-16T03:27:22.627510,Nicole,Mayer,lewisnancy@example.org,Customer,http://crawford.org/,22,1
+HS-75cfd01d,2023-05-08T12:31:14.640113,Virginia,Guzman,lcampbell@example.com,Lead,http://www.hanson.com/,79,0
+HS-0976c32c,2024-09-24T09:02:38.299319,Kristin,Carter,sharon69@example.com,Marketing Qualified Lead,https://www.richardson.com/,83,0
+HS-e1e344b9,2023-12-02T01:26:49.433956,Meredith,Holland,stevensonbrett@example.org,Sales Qualified Lead,https://www.mcintosh-mckinney.org/,2,1
+HS-a5e4157f,2024-03-24T14:18:09.448947,Dominique,Rivera,tdickerson@example.net,Sales Qualified Lead,https://www.simon.info/,76,1
+HS-a729633e,2024-09-03T06:07:45.698368,Laura,Wagner,patrick35@example.net,Opportunity,https://camacho.info/,73,0
+HS-5f9a9875,2024-07-05T02:14:34.101041,Sydney,Perkins,sanchezjason@example.net,Marketing Qualified Lead,http://www.smith.biz/,86,0
+HS-73d9e8f4,2024-10-15T16:09:15.759490,Jason,White,theresa74@example.com,Marketing Qualified Lead,https://brennan.com/,33,0
+HS-04695bba,2023-11-03T02:07:44.815171,Melissa,Harris,brandonsullivan@example.com,Lead,http://munoz.org/,96,0
+HS-397fea10,2024-06-08T06:10:33.012220,Rebecca,Howard,paynerobert@example.org,Marketing Qualified Lead,https://www.mitchell.biz/,90,0
+HS-65d3cf29,2023-12-22T22:45:44.144274,Kayla,Contreras,wdennis@example.net,Subscriber,http://www.avery.com/,91,0
+HS-68adef48,2024-07-24T00:59:11.007086,David,Bryant,kingstacy@example.org,Subscriber,http://www.wilkins.com/,1,1
+HS-9a0561ac,2024-07-29T02:23:56.265119,Rick,Hernandez,jessicagibson@example.org,Marketing Qualified Lead,http://www.bowers.biz/,77,1
+HS-bf20334c,2024-01-06T03:24:28.212896,Elizabeth,Thomas,cmiller@example.com,Sales Qualified Lead,https://kennedy.info/,11,1
+HS-e0ab4826,2023-04-04T07:38:55.742560,Nicole,Miller,rshepard@example.org,Lead,https://rodriguez.com/,56,0
+HS-a5755454,2023-10-25T11:36:10.395916,Nicole,Wilkinson,stewartjames@example.com,Customer,https://www.manning.info/,74,0
+HS-bd2726f6,2023-09-05T22:48:38.423179,William,Gill,stephaniewhite@example.com,Opportunity,https://www.meyer-martinez.com/,6,1
+HS-3c1d9c92,2025-01-26T12:14:50.169275,Jeremy,Lloyd,moranjohn@example.com,Marketing Qualified Lead,http://morgan.com/,55,0
+HS-267837f3,2024-05-05T21:08:11.296469,Joseph,Mejia,cthomas@example.com,Opportunity,https://www.jones-craig.info/,42,0
+HS-e76877d4,2024-06-17T18:11:36.899609,Julie,Simpson,ricardo37@example.org,Subscriber,https://hernandez.info/,47,0
+HS-e80b1be8,2023-04-05T02:59:07.159172,Lori,Meza,hansonpaul@example.com,Lead,https://www.garcia.info/,35,0
+HS-292db2fa,2024-12-01T03:44:55.901139,Barbara,Gonzalez,anthony27@example.com,Subscriber,http://gray-gardner.org/,43,0
+HS-d972a9fa,2024-08-04T19:59:05.279808,Cassie,Thomas,armstrongalyssa@example.org,Opportunity,http://jones-zimmerman.com/,47,1
+HS-21be70e6,2023-04-06T09:36:02.702421,Carlos,Bowen,donald92@example.net,Sales Qualified Lead,http://stuart.net/,12,1
+HS-24551654,2024-08-07T11:07:01.971787,Carolyn,Mcbride,rodgerssusan@example.com,Opportunity,http://phelps.com/,84,1
+HS-30318c50,2025-02-02T16:47:49.130261,Dawn,Cooper,mmiles@example.net,Marketing Qualified Lead,http://jennings-anderson.com/,21,1
+HS-0fdc8f41,2024-01-16T11:50:25.194984,Jesus,Jenkins,russellkaren@example.net,Subscriber,https://chapman.org/,74,1
+HS-a87900ad,2023-09-18T16:52:39.742099,Tammy,Hart,alison60@example.net,Subscriber,http://www.walker-horn.com/,82,0
+HS-aa166609,2023-07-02T22:36:56.329047,Tracy,Edwards,bailey53@example.com,Marketing Qualified Lead,http://www.gray.com/,11,1
+HS-6474d13f,2023-06-16T14:10:57.051572,Melissa,Cox,lisatran@example.net,Subscriber,https://www.moore.com/,27,1
+HS-cf0902fb,2024-08-20T23:21:43.320538,Jessica,Rose,susantran@example.org,Customer,http://www.burns.com/,97,0
+HS-b0782668,2024-03-23T18:59:29.153885,Chelsea,Brooks,mario85@example.com,Opportunity,http://rivera.org/,71,0
+HS-9fee3a93,2023-10-29T13:28:02.351151,Phillip,Thompson,qleblanc@example.net,Opportunity,http://www.ramirez.info/,63,0
+HS-ab382cbd,2024-03-21T13:41:40.671062,Kelly,Thomas,dmathews@example.net,Subscriber,https://proctor-johnson.com/,66,1
+HS-d764a422,2024-02-21T23:11:43.879787,Lisa,Browning,dfloyd@example.com,Sales Qualified Lead,https://www.guerra.com/,73,0
+HS-e3a76316,2024-01-08T11:29:46.645263,Angel,Baxter,lawrence39@example.net,Customer,https://lee-pitts.biz/,7,1
+HS-7ad8bc9f,2023-04-14T10:48:29.263213,Jesse,Chambers,jenniferreed@example.org,Marketing Qualified Lead,http://www.fox-harvey.com/,90,0
+HS-48f90ca7,2025-02-09T18:49:04.449590,Michael,Walsh,mcontreras@example.net,Opportunity,http://www.james.com/,9,1
+HS-0e51f7f7,2024-09-07T19:34:53.978923,David,Martinez,ubarker@example.org,Marketing Qualified Lead,https://barnett-johnson.com/,73,1
+HS-d0a12a94,2024-06-15T20:27:51.246044,Linda,Blake,lwarren@example.net,Customer,https://www.harper.com/,99,0
+HS-7d71db03,2024-04-22T09:04:54.571883,Corey,Clark,carias@example.com,Marketing Qualified Lead,https://porter.biz/,22,1
+HS-f62543d2,2023-04-30T19:56:27.400885,Alice,Gamble,longkevin@example.org,Sales Qualified Lead,https://www.perez-jones.com/,34,0
+HS-19c678f0,2024-12-12T19:08:29.888509,Gregory,Jones,brandttimothy@example.com,Marketing Qualified Lead,https://aguilar.biz/,57,0
+HS-fc3a9828,2024-12-03T01:57:41.782115,Mary,Gentry,rebekahprice@example.org,Marketing Qualified Lead,https://www.garcia.com/,48,0
+HS-95c8a501,2024-03-25T03:38:04.211931,Sean,Mitchell,pmarshall@example.net,Sales Qualified Lead,http://www.lin.org/,35,1
+HS-a1b851da,2024-05-18T22:42:33.331013,Jessica,Bell,benjaminjohnson@example.com,Opportunity,http://davis-adams.com/,97,0
+HS-204170f1,2023-05-12T07:51:10.100636,Sharon,Tran,kimberlyodonnell@example.com,Marketing Qualified Lead,http://mcdonald-morrow.biz/,38,1
+HS-e9ca84a4,2024-08-21T05:28:01.605771,Amy,Patel,kristi75@example.com,Marketing Qualified Lead,http://www.martin.com/,80,1
+HS-47947574,2024-09-19T15:03:20.763656,Angel,Lynch,jackdaniels@example.com,Customer,https://garza-jensen.info/,62,0
+HS-09ff3b70,2024-02-04T20:23:35.726489,Amanda,Thomas,adamgardner@example.com,Marketing Qualified Lead,http://briggs.org/,65,0
+HS-2f1e9a0c,2024-11-05T12:09:59.250136,Hector,Lucas,tbrown@example.org,Sales Qualified Lead,https://phillips.com/,35,0
+HS-7eab4bd1,2024-01-20T12:54:12.755099,Douglas,Wilson,qturner@example.net,Marketing Qualified Lead,http://www.benton.biz/,0,1
+HS-2576c2f6,2023-04-21T05:00:43.571037,Jessica,Stewart,lreyes@example.com,Lead,http://www.anderson.org/,42,1
+HS-ac67d0b2,2024-03-29T14:04:19.599644,Charles,Gould,uarellano@example.org,Opportunity,http://murphy.biz/,41,0
+HS-04c05586,2024-08-07T11:22:50.570040,Rachel,Johnson,anthony14@example.com,Sales Qualified Lead,http://haynes.net/,43,0
+HS-e4ebd43e,2024-08-27T03:10:13.685209,Jasmine,Davis,mark14@example.org,Lead,http://davis.org/,23,1
+HS-39166c3d,2024-03-11T08:35:09.779084,Dominique,Walsh,gonzalezjamie@example.org,Marketing Qualified Lead,https://www.foley-dixon.biz/,72,1
+HS-8fc0a7d8,2024-12-01T05:36:30.158347,Alexis,Carpenter,kevin51@example.org,Subscriber,http://huffman.org/,100,0
+HS-b80e3407,2023-04-11T01:31:58.363132,Tracy,Dixon,mschroeder@example.org,Opportunity,https://obrien.info/,7,1
+HS-056c12dd,2024-08-01T08:14:20.720480,Meredith,Lyons,qthompson@example.org,Subscriber,http://www.diaz.org/,99,1
+HS-0d8539a0,2023-04-23T13:48:25.547280,Diana,Brown,adamboyd@example.net,Sales Qualified Lead,http://brown-solomon.com/,84,0
